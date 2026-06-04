@@ -29,13 +29,13 @@
 
 Ce projet implémente un système complet de classification de textes capable de catégoriser automatiquement des articles de presse dans **5 catégories** différentes :
 
-| Catégorie | Emoji | Description |
+| Catégorie |  | Description |
 |-----------|-------|-------------|
 | Business |  | Actualités économiques et financières |
 | Technology |  | Innovations et avancées technologiques |
 | Sport |  | Compétitions et performances sportives |
 | Politics |  | Actualités politiques et gouvernementales |
-| Entertainment | 🎬 | Divertissement et culture populaire |
+| Entertainment |  | Divertissement et culture populaire |
 
 ##  Fonctionnalités
 
